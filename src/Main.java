@@ -10,7 +10,9 @@ public class Main {
         if(ans==JOptionPane.YES_NO_OPTION){
             JOptionPane.showMessageDialog(null,"รักนะจุ๊บๆ");
         }else {
+            //message
             JOptionPane.showMessageDialog(null,"จำไว้เลย");
+
         }
 
     }
